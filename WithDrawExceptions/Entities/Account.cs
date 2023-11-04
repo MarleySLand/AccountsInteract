@@ -8,21 +8,27 @@ namespace WithDrawExceptions.Entities
         public string Holder { get; set; }
         public double Balance { get; set; }
         public double WithDrawLimit { get; set; }
+        public double DepositLimit { get; set; }
 
         public Account()
         {
         }
 
-        public Account(int number, string holder, double balance, double withdrawlimit) 
+        public Account(int number, string holder, double balance, double withdrawlimit, double depositlimit) 
         {
             Number = number;
             Holder = holder;
             Balance = balance;
             WithDrawLimit = withdrawlimit;
+            DepositLimit = depositlimit;
         }
 
         public void Deposit(double amount)
         {
+            if (amount > DepositLimit)
+            {
+                throw new DomainException("Deposit error: The amount exceeds deposit limit");
+            }
             Balance += amount;
         }
 
