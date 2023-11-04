@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithDrawExceptions", "WithDrawExceptions\WithDrawExceptions.csproj", "{50C7A41A-C30D-4D88-A288-8BD21C47FD02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C7A41A-C30D-4D88-A288-8BD21C47FD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C7A41A-C30D-4D88-A288-8BD21C47FD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C7A41A-C30D-4D88-A288-8BD21C47FD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C7A41A-C30D-4D88-A288-8BD21C47FD02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916BCD58-3AB5-4981-BC1C-2DA01507214B}
+	EndGlobalSection
+EndGlobal

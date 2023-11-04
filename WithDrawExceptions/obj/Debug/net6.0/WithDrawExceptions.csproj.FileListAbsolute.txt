@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\bin\Debug\net6.0\WithDrawExceptions.exe
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\bin\Debug\net6.0\WithDrawExceptions.deps.json
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\bin\Debug\net6.0\WithDrawExceptions.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\bin\Debug\net6.0\WithDrawExceptions.dll
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\bin\Debug\net6.0\WithDrawExceptions.pdb
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.dll
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\refint\WithDrawExceptions.dll
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.pdb
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\WithDrawExceptions.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\C# curso\Novos códigos\Tratamento de exceções\WithDrawExceptions\WithDrawExceptions\obj\Debug\net6.0\ref\WithDrawExceptions.dll
